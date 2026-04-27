@@ -521,8 +521,8 @@ AnnData
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/<your-username>/spatial-transcriptomics-suite.git
-cd spatial-transcriptomics-suite
+git clone https://github.com/fafzal31/Spatial-Transcriptomics
+cd Spatial-Transcriptomics
 
 conda create -n spatial python=3.10
 conda activate spatial
